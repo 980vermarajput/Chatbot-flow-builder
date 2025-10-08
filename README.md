@@ -2,6 +2,10 @@
 
 A visual flow builder for creating chatbot conversation flows, built with React, TypeScript, Vite, and React Flow.
 
+## 🌐 Live Demo
+
+**[Try it live on Vercel →](https://chatbot-flow-builder-lyart-gamma.vercel.app/)**
+
 ## 🚀 Quick Start
 
 ### Development Server
