@@ -166,11 +166,5 @@ colors: {
 - No persistence (flow data only in memory)
 - No undo/redo functionality
 
-## 📚 Documentation
-
-- [Requirements](./REQUIREMENTS.md) - Full project requirements
-- [Implementation Plan](./IMPLEMENTATION_PLAN.md) - Development roadmap
-
----
 
 Built with ❤️ using React + TypeScript + Vite
